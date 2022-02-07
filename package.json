@@ -1,0 +1,23 @@
+{
+  "name": "Javascript_Typescript_Basico_Avancado",
+  "version": "1.0.0",
+  "description": "",
+  "main": "eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreCoelhoDev/Javascript_Typescript_Basico_Avancado.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreCoelhoDev/Javascript_Typescript_Basico_Avancado/issues"
+  },
+  "homepage": "https://github.com/AndreCoelhoDev/Javascript_Typescript_Basico_Avancado#readme",
+  "devDependencies": {
+    "eslint": "^8.3.0"
+  }
+}
